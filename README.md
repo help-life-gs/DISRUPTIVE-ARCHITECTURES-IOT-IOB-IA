@@ -25,6 +25,59 @@ monitorar a saúde de uma pessoa em tempo real.
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177380602564071544/image.png?ex=65724c22&is=655fd722&hm=af240b35b77d954645a69bf20365e6333fdcb9b955e4e755e103c81ec6a013d0&=&format=webp"/>
 </div>
 
-  
+## Código-fonte :copyright::heavy_plus_sign::heavy_plus_sign:
+
+  ```cpp
+  #include "thingProperties.h"
+#include <Wire.h>
+#include "MAX30100_PulseOximeter.h"
+
+#define REPORTING_PERIOD_MS     1000
+
+PulseOximeter pox;
+
+uint32_t tsLastReport = 0;
+
+void onBeatDetected()
+{
+  Serial.println("Beat!");
+}
+
+void setup()
+{
+  Serial.begin(115200);
+  initProperties();
+  ArduinoCloud.begin(ArduinoIoTPreferredConnection);
+  setDebugMessageLevel(2);
+  ArduinoCloud.printDebugInfo();
+
+  Serial.print("Initializing pulse oximeter..");
+
+  if (!pox.begin()) {
+    Serial.println("FAILED");
+    for (;;);
+  } else {
+    Serial.println("SUCCESS");
+  }
+
+  pox.setOnBeatDetectedCallback(onBeatDetected);
+}
+
+void loop()
+{
+  ArduinoCloud.update();
+  pox.update();
+
+  if (millis() - tsLastReport > REPORTING_PERIOD_MS) {
+    
+    oxigenio = pox.getSpO2();
+    batimentos = pox.getHeartRate();
+    
+    tsLastReport = millis();
+  }
+}
+
+```
+
 
 
