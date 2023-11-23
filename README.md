@@ -1,0 +1,2 @@
+# DISRUPTIVE-ARCHITECTURES-IOT-IOB-IA
+Projeto para GS de IOT do 2° semetre 2TDSPJ
