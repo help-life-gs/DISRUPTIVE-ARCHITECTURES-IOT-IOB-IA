@@ -85,7 +85,10 @@ void loop()
     <img height src="https://user-images.githubusercontent.com/77038120/174824422-29e21c5a-0a78-4424-ac6a-cf206aeb0d26.png"/>
 </div>
 
-###*Primeiramente deverá criar uma conta no [Arduino Cloud](https://cloud.arduino.cc/)
-
+### 1- Deverá criar uma conta no [Arduino Cloud](https://cloud.arduino.cc/)
+### 2 - Clicar em Things e depois em Create Thing
+ <div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177399999177437344/image.png?ex=65725e32&is=655fe932&hm=8bce01ccdccce80a933b582a9a8fc8cf655de1c90fa617382a02a4887f4f04e5&=&format=webp&width=1385&height=701"/>
+</div>
 
 
