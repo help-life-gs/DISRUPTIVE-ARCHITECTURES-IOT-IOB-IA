@@ -114,6 +114,24 @@ void loop()
     <img src="https://cdn.discordapp.com/attachments/946052411984842782/1177404052158558238/image.png?ex=657261f9&is=655fecf9&hm=c2a698ab8140a9dbeef40a3386c7c9c615ea6546fccf27ec91c6b7f465bd7625&" alt="Imagem 3" style="width: 30%; height: auto;">
 </div>
 
+### 6- Salvar a Secret Key
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/946052411984842782/1177404350923030598/image.png?ex=65726240&is=655fed40&hm=37ca8ec283fae52dbfdac4e924c114a1f92e47eb5216a64a5d3a71238261bbf6&"/>
+</div>
+
+### 7- Configurar a rede do ESP32
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177405392750399488/image.png?ex=65726338&is=655fee38&hm=5b77ce79794d8b4817ae008e27ca12fc39e19abc9f885f9eee55a0d3ec9b1053&=&format=webp&width=1282&height=701"/>
+</div>
+
+### 8- Colocar `nome` e `senha` da rede wifi e a `secret key`
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177405694182441041/image.png?ex=65726380&is=655fee80&hm=f673de7ef38df70c0707bff1b1ee6b228bdf7d2359e2db226fac6766fc216c9f&=&format=webp"/>
+</div>
+
+
+
 
 
 
