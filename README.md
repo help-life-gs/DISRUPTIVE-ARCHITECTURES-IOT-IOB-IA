@@ -2,15 +2,11 @@
 
 ## Descrição da Solução :right_anger_bubble:
 
-Nossa solução irá utilizar a plataforma Arduino Cloud que é uma plataforma baseada na nuvem desenvolvida pela Arduino para facilitar 
-a criação de aplicações de Internet das Coisas (IoT), a plataforma permite conectar facilmente dispositivos Arduino à internet, também, 
-permite a criação de dashboards personalizados para monitorar e controlar dispositivos IoT, incluindo a visualização de dados em tempo real.
-  
-  Com isso, iremos conectar o Esp32 com o sensor MAX30100 para captar batimentos cardíacos e oxigenação do sangue, assim conseguiremos
-monitorar a saúde de uma pessoa em tempo real.
+Nossa solução emprega Arduino Cloud, uma infraestrutura baseada na nuvem, desenvolvida pela Arduino. Esta plataforma é especialmente concebida para simplificar e otimizar a criação de aplicações no crescente campo da Internet das Coisas (IoT). Um de seus grandes atrativos é a capacidade de conectar dispositivos Arduino à internet com facilidade e eficiência inigualável. Além disso, a plataforma se destaca por permitir a construção de dashboards personalizados. Estes painéis são essenciais para o monitoramento e controle de dispositivos IoT, proporcionando uma visão clara e atualizada dos dados em tempo real, o que é crucial para a tomada de decisões informadas e rápidas.
 
-  O ESP32 é um microcontrolador de baixo custo e com baixo consumo de energia, amplamente utilizado em aplicações de Internet das Coisas (IoT),
-  com isso conseguiremos utilizar ele juntamente com o MAX30100.
+Planejamos integrar o ESP32 com o sensor MAX30100. Esta combinação tem como objetivo captar informações vitais como batimentos cardíacos e oxigenação do sangue, fundamentais para o monitoramento da saúde em tempo real. O ESP32, um microcontrolador por seu baixo custo e eficiência energética, é amplamente reconhecido em aplicações IoT. Sua versatilidade e desempenho confiável o tornam ideal para nossa aplicação. O sensor MAX30100, por outro lado, é um módulo de alta precisão projetado para monitoramento de sinais biométricos. Ele capta com precisão as variações do volume sanguíneo na microvasculatura, permitindo a análise de batimentos cardíacos e os níveis de oxigênio no sangue.
+
+Essa combinação entre o ESP32 e o MAX30100 não apenas garante a coleta eficiente de dados biométricos, mas também facilita a integração desses dados com a plataforma Arduino Cloud. Isso abre caminho para a análise avançada de dados de saúde e a possibilidade de intervenções rápidas em situações críticas, transformando o modo como monitoramos e reagimos às necessidades de saúde em tempo real.
 
   ## Arquitetura do Projeto 	:triangular_ruler:
 
