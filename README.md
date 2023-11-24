@@ -25,6 +25,13 @@ Precisa Terminar
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177380602564071544/image.png?ex=65724c22&is=655fd722&hm=af240b35b77d954645a69bf20365e6333fdcb9b955e4e755e103c81ec6a013d0&=&format=webp"/>
 </div>
 
+## Circuito Real :zap:
+
+<div align="center">
+    <img height="700" src="https://cdn.discordapp.com/attachments/946052411984842782/1177418273680281630/20231123_113928.jpg?ex=65726f37&is=655ffa37&hm=8b193f05b07482e01abc8c06df50c11fe4239e3f4667ff269f16d4d954d57650"/>
+</div>
+
+
 ## Código-fonte :copyright::heavy_plus_sign::heavy_plus_sign:
 
   ```cpp
