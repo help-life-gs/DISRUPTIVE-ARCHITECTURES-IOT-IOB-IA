@@ -100,5 +100,24 @@ void loop()
     <img src="https://cdn.discordapp.com/attachments/946052411984842782/1177401795471999006/image.png?ex=65725fdf&is=655feadf&hm=458c6385a5ec2c8ca7acc34d9a5a5a317854eb53f206f5e2132480becadf84cc&" alt="Imagem 3" style="width: 30%; height: auto;">
 </div>
 
+### 4- Selecionar o Dispositivo
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/946052411984842782/1177402934456238090/image.png?ex=657260ee&is=655febee&hm=b26207f3793f9f3d3ca63ae2cb053ee401cbb010cef6569fbfd875aaa11c26bc&"/>
+</div>
+
+### 5- Configurar o Dispositivo
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://cdn.discordapp.com/attachments/946052411984842782/1177403381191540836/image.png?ex=65726159&is=655fec59&hm=79e7fe3ee453735d1e6becc19bc4c5ac25469cd15d187ba57a2b3f9b74c6eb64&" alt="Imagem 1" style="width: 30%; height: auto;">
+    <img src="https://cdn.discordapp.com/attachments/946052411984842782/1177403864916439052/image.png?ex=657261cc&is=655feccc&hm=7f4c5f0b5608e2e572deec3aa07928730f99f6e73f3cbd81572156fadf804b42&" alt="Imagem 2" style="width: 30%; height: auto;">
+    <img src="https://cdn.discordapp.com/attachments/946052411984842782/1177404052158558238/image.png?ex=657261f9&is=655fecf9&hm=c2a698ab8140a9dbeef40a3386c7c9c615ea6546fccf27ec91c6b7f465bd7625&" alt="Imagem 3" style="width: 30%; height: auto;">
+</div>
+
+
+
+
+
+
 
 
