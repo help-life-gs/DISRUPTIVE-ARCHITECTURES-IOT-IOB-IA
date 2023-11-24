@@ -8,6 +8,10 @@ Planejamos integrar o ESP32 com o sensor MAX30100. Esta combinação tem como ob
 
 Essa combinação entre o ESP32 e o MAX30100 não apenas garante a coleta eficiente de dados biométricos, mas também facilita a integração desses dados com a plataforma Arduino Cloud. Isso abre caminho para a análise avançada de dados de saúde e a possibilidade de intervenções rápidas em situações críticas, transformando o modo como monitoramos e reagimos às necessidades de saúde em tempo real.
 
+## Link Youtube 💻:
+[Youtube]()
+Precisa Terminar
+
   ## Arquitetura do Projeto 	:triangular_ruler:
 
 
@@ -156,7 +160,7 @@ void loop()
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177410300039921674/image.png?ex=657267ca&is=655ff2ca&hm=e103ba0f9bf34e3ecb11990a58bb8882007f9df0c05897a0b6e84ee8f2a1650e&=&format=webp"/>
 </div>
 
-### 15- Adicionar Gauge e Percentage
+### 15- Adicionar Gauge(batimentos cardíacos) e Percentage(oxigenação do sangue)
 
 <div align="center">
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177410657495294012/image.png?ex=6572681f&is=655ff31f&hm=627cae0f953bfe90151e67a150dcf9afe3ea4913f5abb83283fea051d3b73479&=&format=webp"/>
@@ -171,6 +175,9 @@ void loop()
 <div align="center">
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177411885344243753/image.png?ex=65726944&is=655ff444&hm=feb84fe9aa4121938e3c432f07d8891f99a1c5f0fa993728ca7bf4b29263f294&=&format=webp&width=1257&height=701"/>
 </div>
+
+### Se você quiser entender como o código funcionar assista o vídeo disponiblizado no início deste documento.
+### Caso tenha dúvidas específicas, você pode acessar a documentação do [Arduino Cloud](https://docs.arduino.cc/arduino-cloud/)
 
 
 
