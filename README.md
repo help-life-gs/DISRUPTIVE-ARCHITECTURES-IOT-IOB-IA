@@ -144,6 +144,25 @@ void loop()
 
 **Obervação:** Logo após clicar no botão de passar o código, segure o botão `BOOT` no ASP32 até o código ser passado 100%
 
+### 13- Criação do DashBoard - Na página Home clique em `Dashboards`
+
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177409772853674004/image.png?ex=6572674d&is=655ff24d&hm=78cc4c902cd24fdf5619cf9f38eabecc445a04f84d7cadc72d2daa84fd3ade6a&=&format=webp"/>
+</div>
+
+### 14- Clicar em `Create DASHBOARD`
+
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177410300039921674/image.png?ex=657267ca&is=655ff2ca&hm=e103ba0f9bf34e3ecb11990a58bb8882007f9df0c05897a0b6e84ee8f2a1650e&=&format=webp"/>
+</div>
+
+### 15- Adicionar Gauge e Percentage
+
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177410657495294012/image.png?ex=6572681f&is=655ff31f&hm=627cae0f953bfe90151e67a150dcf9afe3ea4913f5abb83283fea051d3b73479&=&format=webp"/>
+</div>
+
+
 
 
 
