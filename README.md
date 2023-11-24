@@ -146,6 +146,9 @@ void loop()
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177407627404263584/image.png?ex=6572654d&is=655ff04d&hm=af1e9f6aa9265766d9bb538df6e162c29a361ebe865ae47479004492a0888572&=&format=webp"/>
 </div>
 
+**Obervação:** Logo após clicar no botão de passar o código, segure o botão `BOOT` no ASP32 até o código ser passado 100%
+
+
 
 
 
