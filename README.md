@@ -9,7 +9,7 @@ Planejamos integrar o ESP32 com o sensor MAX30100. Esta combinação tem como ob
 Essa combinação entre o ESP32 e o MAX30100 não apenas garante a coleta eficiente de dados biométricos, mas também facilita a integração desses dados com a plataforma Arduino Cloud. Isso abre caminho para a análise avançada de dados de saúde e a possibilidade de intervenções rápidas em situações críticas, transformando o modo como monitoramos e reagimos às necessidades de saúde em tempo real.
 
 ## Link Youtube 💻:
-[Youtube]("https://www.youtube.com/watch?v=_gvOfZGv9ko&ab_channel=mSato")
+[Youtube](https://www.youtube.com/watch?v=_gvOfZGv9ko&ab_channel=mSato)
 
 
   ## Arquitetura do Projeto 	:triangular_ruler:
