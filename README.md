@@ -162,6 +162,16 @@ void loop()
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177410657495294012/image.png?ex=6572681f&is=655ff31f&hm=627cae0f953bfe90151e67a150dcf9afe3ea4913f5abb83283fea051d3b73479&=&format=webp"/>
 </div>
 
+### 16- Devemos configurar o Gauge e Percentage linkando com as variáveis que criamos anteriormente
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/946052411984842782/1177411280395571210/image.png?ex=657268b4&is=655ff3b4&hm=7f286c3909089bb317c843ec6703bf86bd9ac65751ad8fa21a31603eecf18e64&"/>
+</div>
+
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177411885344243753/image.png?ex=65726944&is=655ff444&hm=feb84fe9aa4121938e3c432f07d8891f99a1c5f0fa993728ca7bf4b29263f294&=&format=webp&width=1257&height=701"/>
+</div>
+
 
 
 
