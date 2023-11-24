@@ -130,6 +130,26 @@ void loop()
     <img height src="https://media.discordapp.net/attachments/946052411984842782/1177405694182441041/image.png?ex=65726380&is=655fee80&hm=f673de7ef38df70c0707bff1b1ee6b228bdf7d2359e2db226fac6766fc216c9f&=&format=webp"/>
 </div>
 
+### 9- Ir em Sketch e adicionar o código
+
+<div align="center">
+    <img height src="https://cdn.discordapp.com/attachments/946052411984842782/1177406559031140352/image.png?ex=6572644e&is=655fef4e&hm=4d746fbcb941ffdbfe010ce767d87ff78f5b21d4d0da5cd7c633459fb71dcd2f&"/>
+</div>
+
+### 10- Instalar o [Arduino Create Agent](https://support.arduino.cc/hc/en-us/articles/360014869820-Install-the-Arduino-Create-Agent)
+
+### 11- Conectar o circuito ao computador/notebook
+
+### 12- Passar o código para o `ESP32`
+
+<div align="center">
+    <img height src="https://media.discordapp.net/attachments/946052411984842782/1177407627404263584/image.png?ex=6572654d&is=655ff04d&hm=af1e9f6aa9265766d9bb538df6e162c29a361ebe865ae47479004492a0888572&=&format=webp"/>
+</div>
+
+
+
+
+
 
 
 
